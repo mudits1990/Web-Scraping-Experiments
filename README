@@ -1,0 +1,2 @@
+This Repo contains my web scraping experiments. 
+1) movie_app.py : It is a console based application that scraps data from wikipedia about a movie and shows rating from imdb.
